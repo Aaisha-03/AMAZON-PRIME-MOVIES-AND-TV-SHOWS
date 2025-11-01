@@ -1,4 +1,4 @@
-# AMAZON-PRIME-MOVIES-AND-TV-SHOWS
+# AMAZON-PRIME-MOVIES-AND-TV-SHOWS DASHBOARD
 <img width="1156" height="646" alt="image" src="https://github.com/user-attachments/assets/b540f3b7-1bc2-4a30-86d5-35d3fe6b0ef1" />
 
 This project presents an interactive Power BI dashboard analyzing the Amazon Prime Video dataset.
